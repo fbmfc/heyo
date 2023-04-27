@@ -1,4 +1,4 @@
-# Compliance training subjects
+# SCA CLI Walkthrough
 
 When people are talking about "open source compliance" as a generic term they
 are usually not aware that it is actually not a single problem, but there are
