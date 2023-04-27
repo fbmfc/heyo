@@ -30,7 +30,7 @@ Both Legit Security and Arnica have extended their pipeline security controls to
 
 # Build & Package
 
-![Untitled](SSC%20SDLC%20Ecosystem%20Companion%20Write-Ups%205e184230f23b4b66a33c568646429e8b/Untitled%201.png)
+![Untitled](Untitled.png)
 
 There are two broad segments of vendors helping to secure the build & package process:
 
