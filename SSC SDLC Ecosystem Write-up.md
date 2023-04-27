@@ -1,4 +1,4 @@
-# SSC / SDLC Ecosystem Companion Write-Ups
+# SSC / SDLC Ecosystem Write-Ups
 
 # Intro
 
