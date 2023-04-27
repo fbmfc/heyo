@@ -61,7 +61,7 @@ Pipeline-level approaches include the following sub-categories
 
 # Testing & Deployment
 
-![Untitled](SSC%20SDLC%20Ecosystem%20Companion%20Write-Ups%205e184230f23b4b66a33c568646429e8b/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
 As one may expect, the Static Application Security Testing (SAST) landscape has largely been commoditized. Most cybersecurity vendors offer some shape of a solution that scans proprietary and/or open-source code components against known vulnerabilities. 
 
