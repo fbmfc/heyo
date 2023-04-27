@@ -1,7 +1,5 @@
 # SSC / SDLC Ecosystem Companion Write-Ups
 
-[Ecosystem Map](https://www.figma.com/file/D0269BAXNd7xfW63TIOVW4/SSC-%2F-SDLC-Ecosystem-Map-(WIP)?node-id=0-1&t=8P8oCFhpClQ5eKqH-0)
-
 # Intro
 
 Third-party dependencies are core to software development. In 2021, over 2.2 trillion open-source packages or components were borrowed from third-party ecosystems. Almost all codebases, ranging from 85% to 97% of enterprises, contain open-source code. Third-party development tools, pipelines, and infrastructure are also widespread. These dependencies and tooling make up the modern software supply chain. This long-tail chain of code, components, and OSS libraries are an enormous cyber-attack surface area.
