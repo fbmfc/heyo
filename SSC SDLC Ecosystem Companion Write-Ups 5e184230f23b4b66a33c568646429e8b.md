@@ -30,7 +30,7 @@ Both Legit Security and Arnica have extended their pipeline security controls to
 
 # Build & Package
 
-![Untitled](Untitled.png)
+![Untitled](Untitled1.png)
 
 There are two broad segments of vendors helping to secure the build & package process:
 
@@ -61,7 +61,7 @@ Pipeline-level approaches include the following sub-categories
 
 # Testing & Deployment
 
-![Untitled](Untitled%202.png)
+![Untitled](Untitled2.png)
 
 As one may expect, the Static Application Security Testing (SAST) landscape has largely been commoditized. Most cybersecurity vendors offer some shape of a solution that scans proprietary and/or open-source code components against known vulnerabilities. 
 
@@ -71,7 +71,7 @@ SCA tools can identify dependency vulnerabilities in source code, but they may m
 
 # Production
 
-![Untitled](SSC%20SDLC%20Ecosystem%20Companion%20Write-Ups%205e184230f23b4b66a33c568646429e8b/Untitled%203.png)
+![Untitled](Untitled3.png)
 
 IAST testing is done in real-time while the application runs in the staging environment, enabling it to quickly identify the line of code that causes security issues and notify the developer for immediate remediation. This method also checks source code like SAST, but it does so at the post-build stage rather than during code build. IAST agents are typically deployed on application servers. When a vulnerability is reported by the DAST scanner, the IAST agent deployed returns the line number of the issue from the source code. During functional testing by a QA tester, the deployed IAST agent studies every pattern of data transfer inside the application, whether it's dangerous or not. This space is similarly commoditized by several key vendors like Legit Security & Contrast Security, who largely offer overlapping capabilities. 
 
