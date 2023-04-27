@@ -18,7 +18,7 @@ Vendors seek to prevent these threats through a variety of methods, starting fro
 
 # Source
 
-![Untitled](SSC%20SDLC%20Ecosystem%20Companion%20Write-Ups%205e184230f23b4b66a33c568646429e8b/Untitled.png)
+![Untitled](Untitled.png)
 
 Source threats compromise the integrity of source code, wherein the risk is primarily related to to the potential for a bad actor to introduce bad or unexpected software that is outside the original intent of the software producer. The primary prevention tool against source threats is Software Composition Analysis (SCA), which is meant to flag OSS code against a library or database of known vulnerabilities found in NVD or CVE. 
 
